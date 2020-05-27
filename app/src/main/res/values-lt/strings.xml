@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Koks tai skaičius</string>
+    <string name="btn_start">Pradėti</string>
+    <string name="btn_result">Rezultatas</string>
+    <string name="btn_settings">Nustatymai</string>
+    <string name="btn_about">Apie</string>
+
+    <string name="version">versija : 2.0</string>
+
+    <string name="btn_back">Atgal</string>
+
+    <string-array name="difficulty_values">
+
+        <item>Lengvas</item>
+        <item>Normalus</item>
+        <item>Sunkus</item>
+
+    </string-array>
+
+    <string name="btn_save">Išsaugoti</string>
+
+    <string name="number_range_format">Spėk skaičių tarp %d ir %d </string>
+
+    <string name="turns_format">bandymas %d iš %d</string>
+
+    <string name="result_format">Spėtas skaičius buvo %d ir jis buvo per %s</string>
+    <string name="result_high">didelis</string>
+    <string name="result_low">mažas</string>
+    <string name="result_text">asmeninė rezultatų suvestinė</string>
+    <string name="result_btn_publicSB">vieši rezultatai</string>
+    <string name="result_btn_deleteMySB">trinti rezultatų suvestinę</string>
+
+    <string name="guessHistory_text">žaidimo spėjimų istorija</string>
+
+    <string name="game_over_guess">Tavo paskutinis spėjimas buvo :</string>
+    <string name="game_over_rand_numb">Atsitiktinis skaičius buvo :</string>
+    <string name="game_over_you_won">Jūs Laimėjote !</string>
+    <string name="game_over_you_lost">Jūs pralaimėjote.</string>
+
+    <string name="about1">Apie programėlę</string>
+    <string name="about2">Koks tai skaičius žaidimas, šio app kūrimo tikslas išmokti naudotis android studio ir kurti programėles</string>
+    <string name="about3">Apie žaidimą : pradėjus naują žaidimą yra sugeneruojamas atsitiktinis skaičius, jūsų tikslas tą skaičių atspėti, tačiau
+    turite limituotą skaičių spėjimų, po kiekvieno spėjimo programėlė praneš ar jūsų spėtas skaičius buvo per didelis ar per mažas.
+        </string>
+
+    <string name="about4">Programėlę sukūrė Lukas Kaziliūnas IFAp-7</string>
+
+    <string name="optName">Vardas</string>
+    <string name="optAge">Amžius</string>
+    <string name="optMusic">Garsas</string>
+    <string name="optDif">Sunkumas</string>
+
+    <string name="alert_msg_confirm_share">ar tikrai norite dalintis rezultatu ?</string>
+    <string name="alert_yes">taip</string>
+    <string name="alert_no">ne</string>
+
+</resources>
